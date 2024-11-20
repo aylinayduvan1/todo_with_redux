@@ -1,0 +1,6 @@
+.list-zone {
+    max-height: 75%;
+    overflow-y: auto;
+    scrollbar-color: orange #001e39;
+    scrollbar-width: thin;
+}

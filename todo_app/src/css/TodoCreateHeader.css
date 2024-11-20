@@ -1,0 +1,17 @@
+.create-zone {
+    background-color: #001e39;
+    margin-bottom: 15px;
+    padding: 12px;
+    color: black;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.create-input {
+    background-color: #001e39;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
